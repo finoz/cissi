@@ -1,2 +1,2 @@
 # cissi
-doodle-like weekle meeting scheduling tool
+doodle-like weekly meeting scheduling tool
